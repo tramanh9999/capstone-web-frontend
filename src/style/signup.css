@@ -1,0 +1,27 @@
+
+.signup-card {
+    max-width: 1300px;
+    border-radius: 12px !important;
+   
+    
+  }
+  
+  .signup-card  img {
+    width: 300px;
+  }
+  .signup {
+    background: #1A2038;
+    
+  
+   
+  }
+  .justify-center {
+    justify-content: center;
+  }
+  .h-full-screen {
+    height: 120vh;
+  }
+  .w-full {
+    width: 100%;
+  }
+  
