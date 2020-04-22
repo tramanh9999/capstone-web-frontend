@@ -1,1 +1,1 @@
-npm start --max_old_space_size=4096
+npm start fix-memory-limit

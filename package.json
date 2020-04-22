@@ -43,6 +43,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "fix-memory-limit": " react-scripts start cross-env LIMIT=2048 increase-memory-limit",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
